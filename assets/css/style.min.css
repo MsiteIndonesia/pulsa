@@ -353,7 +353,7 @@ section h3 {
 }
 
 #preload-block .square-block {
-    background: url("https://rawcdn.githack.com/MsiteIndonesia/pulsa/499b5365c235d774674f449519f717d46e84e0d3/assets/images/preloader.gif") no-repeat center center;
+    background: url(../images/preloader.gif) no-repeat center center;
     width: 80px;
     height: 80px;
     text-align: center;
